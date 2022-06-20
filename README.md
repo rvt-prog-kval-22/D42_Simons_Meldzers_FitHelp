@@ -3,7 +3,7 @@
 https://fithelp-simonsmeldzers.vercel.app/
 https://ej.uz/fithelp
 
-# Projekta apraksts
+# Datu glabāšanas un vizualizēšanas palīg rīks ,,FitHelp", lietotāju ķermeņa transformācijas sekošanai.
 
 "Fithelp" ir mājaslapa, kas ļauj lietotājiem sekot savam fiziskajam progresam, kā arī piedāvā katalogu ar vingrojumiem un dietām. Vietne paredzēta parastiem cilvēkiem, kuriem ir nepieciešama palīdzība svara nomešanā/uzņemšanā, protams, vietne ver palīdzēt tikai informatīvi, palīdzot lietotājam vizualizēt grafikus ar dažādiem mērījumiem, kā arī piedāvājot palīdzību ēšanas un vingrojumu izvēlnē.
 
